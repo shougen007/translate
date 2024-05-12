@@ -2,4 +2,4 @@
 aliases:
 ---
 Translate
-![[public/static/icon.png]]
+![[icon.png]]
