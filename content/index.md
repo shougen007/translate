@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: "\bCoding and writing are converging"
 ---
 
 This is a blank Quartz installation.
