@@ -2,4 +2,3 @@
 aliases:
 ---
 Translate
-![[icon.png]]
