@@ -7,7 +7,7 @@ TABLE without id
 	pages,
 	published,
 	ratings
-FROM "book"
+FROM "content/book"
 WHERE status="added"
 ```
 
@@ -20,7 +20,7 @@ TABLE without id
 	pages,
 	published,
 	ratings
-FROM "book"
+FROM "content/book"
 WHERE status="reading"
 ```
 >
@@ -34,6 +34,6 @@ TABLE without id
 	pages,
 	published,
 	ratings
-FROM "book"
+FROM "content/book"
 WHERE status="read"
 ```
