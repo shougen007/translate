@@ -1,6 +1,6 @@
 ---
-title: "\bCoding and writing are converging"
+title: Saloo
 ---
 
-
-See the [documentation](https://saloo.com) for how to get started.
+Coding and writing are converging
+See the [documentation](https://saloo.xyz) for how to get started.
