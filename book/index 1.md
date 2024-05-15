@@ -2,36 +2,30 @@
 title: Welcome to My Digital Garden
 ---
 저는 여러분이 흥미로운 것을 우연히 발견할 수 있기를 바라는 마음으로 노트를 공개합니다.
-[커피 한 잔](https://ko-fi.com/saloo) 사주시면 운영에 도움이 될 것입니다.
+대부분의 콘텐츠는 번역가를 위해 작성된 것이며, 주목할만한 것은 파일 변환기술연구입니다.
+
+이 곳에서 [커피 한 잔](https://ko-fi.com/saloo) 사주시면 연구에 도움이 될 것입니다.
+>[! Tip]
+저에게 피드백을 줄 수 있는 가장 좋은 방법은 다음과 같습니다:
+- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
+- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
+
 
 ---
-title: Welcome to Doing It in Public
+Note
 ---
-I'm [Nicole van der Hoeven](https://nicolevanderhoeven.com), and *Doing It in Public* is a book I'm writing about learning in public: what it is, why you should do it, and practical instructions for how to do it. To keep up with the spirit of the book, I'm attempting to write the book itself in public. That means that depending on when you're reading this, you may still find the book in various stages of disarray. Be warned! Here be dragons.
 
-Here's a video of me talking about the context behind this book and how I came up with the idea:
-
-![](https://www.youtube.com/watch?v=MwNPY9DmQTY)
 ## Giving feedback
 
-A vital part of this process is getting (and responding to) feedback at every step. To facilitate this, here are the best ways you can give me feedback:
-- Join [my Discord server](https://discord.gg/J8SeNYbzAF) and head on over to the `#book-doing-it-in-public` channel to join the conversation.
-- [Raise an issue](https://github.com/nicolevanderhoeven/doing-it-in-public/issues/new) on GitHub.
+이 프로세스의 중요한 부분은 모든 단계에서 피드백을 받고 이에 응답하는 것입니다. 이를 용이하게 하기 위해 저에게 피드백을 줄 수 있는 가장 좋은 방법은 다음과 같습니다:
+- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
+- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
 
 What should you give feedback on? The structure of the book/chapter, whether something was unclear, ideas or suggestions for how I could improve it, new ideas you think I should consider... I'm open to everything related to the content.
 
 *Please don't* give feedback on spelling and grammar. That'll all be sorted out during the proofreading later.
 
-## Getting updates
 
-There are three ways you can get updates about new chapters for review:
-- Join [my Discord server](https://discord.gg/J8SeNYbzAF). I'll post requests for reviews in the channel `#book-doing-it-in-public`.
-- Sign up for my newsletter, [Thinking in Public](https://tip.nicolevanderhoeven.com). I'll mention available chapters for review there.
-- Check [Changelog](Changelog.md) here for updates.
-
-In the spirit of learning in public, here's a talk I did at the [PKM Summit 2024](https://pkmsummit.com) where I discussed some of the topics of this book as a way to get early feedback:
-
-![](https://www.youtube.com/watch?v=i-uNtkre1aE)
 
 ## Outline
 ### [[Introduction]] ([[Introduction|link]])
@@ -49,6 +43,10 @@ In the spirit of learning in public, here's a talk I did at the [PKM Summit 2024
 - When you can show your work
 - The Observer Effect, and how to use it to your benefit
 - What is all this for?
+
+### Chapter 1. Mindset
+
+- 
 
 ### Chapter 2. Mindset
 
