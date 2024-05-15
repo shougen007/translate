@@ -16,7 +16,7 @@ title: Welcome to My Digital Garden
 - テキストを韓国語に翻訳する
 
 ### Video Editing Tools
-- SSTG1[[SSTG1]]
+- [SSTG1](SSTG1)
 - Final Cut Pro X
 - Adobe Premiere Pro
 - Da Vinci Resolve
@@ -33,7 +33,7 @@ title: Welcome to My Digital Garden
 - OpenAI
 
 ### Programming
-- Markup[[Markup language]]
+- [Markup language](Markup language)
 
 ### My favorite tool
 - Obsidian
