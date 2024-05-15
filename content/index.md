@@ -6,33 +6,27 @@ title: Welcome to My Digital Garden
 ほとんどのコンテンツは翻訳者向けに作成されたものであり、注目に値するのはファイル変換技術の研究です。
 
 ここで [コーヒー一杯](https://ko-fi.com/saloo) 買って下されば 硏究に役に立つでしょう。
->[! Tip] 私にフィードバックするための最良の方法は次のとおりです。
+>私にフィードバックするための最良の方法は次のとおりです。
 >- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
 >- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
 
 
 ### Multilingual
 - テキストを日本語に翻訳する。
-	- English
-	- Korean
 - テキストを韓国語に翻訳する
-	- English
-	- Japanese
 
 ### Video Editing Tools
-- Professional tools
-	- SSTG1[[SSTG1]]
-	- Final Cut Pro X
-	- Adobe Premiere Pro
-	- Da Vinci Resolve
-- Beginner tools
-	- VEED
-	- CapCut
-	- iMovie
-	- Camtasia
-	- ScreenFlow
-	- Subtitle Edit
-	- ATS
+- SSTG1[[SSTG1]]
+- Final Cut Pro X
+- Adobe Premiere Pro
+- Da Vinci Resolve
+- VEED.io
+- CapCut
+- iMovie
+- Camtasia
+- ScreenFlow
+- Subtitle Edit
+- ATS
 
 ### AI Productivity Tools
 - GPT-4
