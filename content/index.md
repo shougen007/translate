@@ -1,5 +1,5 @@
 ---
-title: Saloo
+title: Country life
 ---
 
 Coding and writing are converging
