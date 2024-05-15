@@ -34,7 +34,6 @@ title: Welcome to My Digital Garden
 
 ### Programming
 - [Markup language](Markup language)
-
 ### My favorite tool
 - Obsidian
 - Zen
