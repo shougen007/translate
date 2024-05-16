@@ -1,23 +1,6 @@
 ---
 title: Welcome to My Digital Garden
 ---
-このサイトは数ヶ国語で閲覧できます：
-
-<select class="dropdown select-location">
-<option value="">English</option>
-<option value="https://saloo.xyz/My-Editing-Tools/Obsidian">العربية</option>
-<option value="https://publish.obsidian.md/help-da">Dansk</option>
-<option value="https://publish.obsidian.md/help-es">Español</option>
-<option value="https://publish.obsidian.md/help-it">Italiano</option>
-<option value="https://saloo.xyz/jp">日本語</option>
-<option value="https://publish.obsidian.md/help-km">Phéasa Khmêr</option>
-<option value="https://saloo.xyz/ko">한국어</option>
-<option value="https://publish.obsidian.md/help-pt-br">Português</option>
-<option value="https://publish.obsidian.md/help-ru">Русский</option>
-<option value="https://publish.obsidian.md/help-vi">Tiếng Việt</option>
-<option value="https://publish.obsidian.md/help-zh">中文</option>
-</select>
-
 ## Getting started
 皆さんが興味深いことを偶然発見できることを願う気持ちでノートを公開します。
 ほとんどのコンテンツは翻訳者向けに作成されたものであり、注目に値するのはファイル変換技術の研究です。
@@ -26,6 +9,10 @@ title: Welcome to My Digital Garden
 私にフィードバックするための最良の方法は次のとおりです。
 >- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
 >- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
+
+> [!note]
+> This is specifically a guide for upgrading Quartz 4 version to a more recent update. If you are coming from Quartz 3, check out the [[migrating from Quartz 3|migration guide]] for more info.
+
 
 ### Multilingual
 - テキストを日本語に翻訳する。
