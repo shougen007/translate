@@ -6,10 +6,10 @@ title: Welcome to My Digital Garden
 ほとんどのコンテンツは翻訳者向けに作成されたものであり、注目に値するのはファイル変換技術の研究です。
 
 ここで [コーヒー一杯](https://ko-fi.com/saloo) 買って下されば 硏究に役に立つでしょう。
->私にフィードバックするための最良の方法は次のとおりです。
+>[! Tip]
+私にフィードバックするための最良の方法は次のとおりです。
 >- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
 >- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
-
 
 ### Multilingual
 - テキストを日本語に翻訳する。
@@ -40,6 +40,16 @@ title: Welcome to My Digital Garden
 - Arc Browser
 - IntelliJ IDEA
 - Github
+
+**Signature:**
+
+```typescript
+keymap: Keymap;
+```
+
+LINKS TO THIS PAGE
+
+[App](https://docs.obsidian.md/Reference/TypeScript+API/App)
 
 
 See the [documentation](https://saloo.xyz) for how to get started.
