@@ -5,7 +5,7 @@ title: Welcome to My Digital Garden
 
 <select class="dropdown select-location">
 <option value="">English</option>
-<option value="https://saloo.xyz/Programming">العربية</option>
+<option value="https://saloo.xyz/My-Editing-Tools/Obsidian">العربية</option>
 <option value="https://publish.obsidian.md/help-da">Dansk</option>
 <option value="https://publish.obsidian.md/help-es">Español</option>
 <option value="https://publish.obsidian.md/help-it">Italiano</option>
