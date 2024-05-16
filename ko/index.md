@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Digital Garden
 ---
-이 사이트는 여러 언어로 검색할 수 있습니다:
+このサイトは数ヶ国語で閲覧できます：
 
 <select class="dropdown select-location">
 <option value="">English</option>
