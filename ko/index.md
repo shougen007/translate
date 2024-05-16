@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Digital Garden
 ---
-このサイトは数ヶ国語で閲覧できます：
+이 사이트는 여러 언어로 검색할 수 있습니다:
 
 <select class="dropdown select-location">
 <option value="">English</option>
@@ -9,9 +9,9 @@ title: Welcome to My Digital Garden
 <option value="https://publish.obsidian.md/help-da">Dansk</option>
 <option value="https://publish.obsidian.md/help-es">Español</option>
 <option value="https://publish.obsidian.md/help-it">Italiano</option>
-<option value="https://publish.obsidian.md/help-ja">日本語</option>
+<option value="https://saloo.xyz/jp">日本語</option>
 <option value="https://publish.obsidian.md/help-km">Phéasa Khmêr</option>
-<option value="https://publish.obsidian.md/help-ko">한국어</option>
+<option value="https://saloo.xyz/ko">한국어</option>
 <option value="https://publish.obsidian.md/help-pt-br">Português</option>
 <option value="https://publish.obsidian.md/help-ru">Русский</option>
 <option value="https://publish.obsidian.md/help-vi">Tiếng Việt</option>
