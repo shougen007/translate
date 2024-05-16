@@ -10,10 +10,6 @@ title: Welcome to My Digital Garden
 >- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
 >- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
 
-> [!note]
-> This is specifically a guide for upgrading Quartz 4 version to a more recent update. If you are coming from Quartz 3, check out the [[migrating from Quartz 3|migration guide]] for more info.
-
-
 ### Multilingual
 - テキストを日本語に翻訳する。
 - テキストを韓国語に翻訳する
