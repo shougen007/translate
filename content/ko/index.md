@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Digital Garden
 ---
-このサイトは数ヶ国語で閲覧できます：
+ko このサイトは数ヶ国語で閲覧できます：
 
 <select class="dropdown select-location">
 <option value="">English</option>
