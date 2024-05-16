@@ -15,7 +15,7 @@ title: Welcome to My Digital Garden
 - テキストを韓国語に翻訳する
 
 ### Video Editing Tools
-- [SSTG1](SSTG1)
+- SSTG1
 - Final Cut Pro X
 - Adobe Premiere Pro
 - Da Vinci Resolve
