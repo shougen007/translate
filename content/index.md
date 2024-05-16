@@ -32,7 +32,7 @@ title: Welcome to My Digital Garden
 - OpenAI
 
 ### Programming
-- [Markup language](Markup language)
+- Markup language
 ### My favorite tool
 - Obsidian
 - Zen
