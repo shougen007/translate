@@ -40,15 +40,5 @@ title: Welcome to My Digital Garden
 - IntelliJ IDEA
 - Github
 
-**Signature:**
-
-```typescript
-keymap: Keymap;
-```
-
-LINKS TO THIS PAGE
-
-[App](https://docs.obsidian.md/Reference/TypeScript+API/App)
-
 
 See the [documentation](https://saloo.xyz) for how to get started.
