@@ -10,6 +10,7 @@ title: Welcome to My Digital Garden
 >- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
 >- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
 
+
 ### Multilingual
 - テキストを日本語に翻訳する。
 - テキストを韓国語に翻訳する
