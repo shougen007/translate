@@ -1,39 +1,21 @@
 ---
-title: Welcome to My Digital Garden
+title: 가정예배
 ---
-## Getting started
-皆さんが興味深いことを偶然発見できることを願う気持ちでノートを公開します。
-ほとんどのコンテンツは翻訳者向けに作成されたものであり、注目に値するのはファイル変換技術の研究です。
+## 참여 방법
 
-ここで [コーヒー一杯](https://ko-fi.com/saloo) 買って下されば 硏究に役に立つでしょう。
-私にフィードバックするための最良の方法は次のとおりです。
->- Join [my Discord server](https://discord.com/invite/7tjTBnve) and head on over to the `#translate` channel to join the conversation.
->- [Raise an issue](https://github.com/shougen007/translate/issues/new) on GitHub.
+가정에서 함께 말씀을 나누고 기도하며 사랑을 실천할 때 하나님께서 기뻐하시는 가정으로 세워질 수 있습니다.
+일본에서 가정예배를 인도하면서 말씀을 묵상하는 습관을 위한 성경필사를 진행하고 있습니다.
+함께 성경필사에 참여하여 하나님 말씀을 나누었으면 합니다.
+(성경말씀은 저작권 문제로 KLB로 생성하였고, 현재는 '생명의 말씀사'의 '새번역 성경'을 필사하고 있습니다.)
 
+### 가정예배 진행을 위한 3가지 TIP
+- 시간과 장소를 정합니다.
+- 자녀들이 가정예배에 잘 참여할 수 있도록 미리 광고합니다.
+- 가정예배 30분 전에 시작을 알립니다.
 
-### Multilingual
-- テキストを日本語に翻訳する。
-- テキストを韓国語に翻訳する
+### 찬송가
+- 준비중
 
-### Video Editing Tools
-- SSTG1
-- Final Cut Pro X
-- Adobe Premiere Pro
-- Da Vinci Resolve
-- VEED.io
-- CapCut
-- iMovie
-- Camtasia
-- ScreenFlow
-- Subtitle Edit
-- ATS
-
-### AI Productivity Tools
-- GPT-4
-- OpenAI
-
-### Programming
-- Markup language
 ### My favorite tool
 - Obsidian
 - Zen
